@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm [Your Name]</h1>
+<h1 align="center">Hey there! 👋 I'm Prince Gupta</h1>
 
 <p align="center">
   🚀 MERN Stack Developer | 💡 UI/UX Enthusiast | 🔍 Always Curious<br/>
