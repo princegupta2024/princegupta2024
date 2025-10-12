@@ -35,26 +35,83 @@
 
 ---
 
-## 🌟 Featured Projects (Live demos & Source)
+## 🚀 Featured Projects
 
-> Projects below — **Live** indicates a deployed site. **Source** links point to GitHub repos when available.
-
-| Project | Description | Live Demo | Source |
-|---|---:|:---:|:---:|
-| **Gym Management** | Responsive gym management landing & UI. | https://princegupta2024.github.io/gym-management/ | https://github.com/princegupta2024/gym-management |
-| **Education** | Education template / informational site. | https://princegupta2024.github.io/education/ | https://github.com/princegupta2024/education |
-| **Medicine Seller** | Medicine / pharmacy landing site. | https://princegupta2024.github.io/medicine_seller/ | https://github.com/princegupta2024/medicine_seller |
-| **FlexiTabs** | UI component/demo for tabbed interfaces. | https://princegupta2024.github.io/FlexiTabs/ | https://github.com/princegupta2024/FlexiTabs |
-| **Makhana Web** | Small business / product website. | https://princegupta2024.github.io/makhana_web/ | https://github.com/princegupta2024/makhana_web |
-| **Capstone Abrasives** | Corporate website (client). | https://www.capstoneabrasives.com/ | _Live only — source not in this GitHub_ |
-| **NILA Shop** | E-commerce / Shopify store. | https://nila.shop/ | _Live only — source not in this GitHub_ |
-| **Sumesh Petroleum** | Company website (client). | https://www.sumeshpetroleum.com/ | _Live only — source not in this GitHub_ |
-| **SwishWash** | Laundry / service website (client). | https://www.swishwash.in/ | _Live only — source not in this GitHub_ |
-| **DiaCure** | E-commerce / shop (client). | https://diacure.shop/ | _Live only — source not in this GitHub_ |
-
-> _Note:_ For your `princegupta2024.github.io/...` sites, I linked the likely GitHub repos by the same repo name. If a repo uses a different name, update the Source link to the correct repo.
+> A few highlights from my work — a mix of **personal**, **client**, and **freelance** projects.  
+> Each link below opens the **live site**, and source code is included when available.
 
 ---
+
+### 🏋️‍♂️ [Gym Management](https://princegupta2024.github.io/gym-management/)
+**Tech Stack:** HTML, CSS, JS  
+🎯 Responsive gym landing website with membership and service sections.  
+[🔗 View Source](https://github.com/princegupta2024/gym-management)
+
+---
+
+### 🎓 [Education Template](https://princegupta2024.github.io/education/)
+**Tech Stack:** HTML, CSS, JavaScript  
+📘 Modern layout for institutes and online education platforms.  
+[🔗 View Source](https://github.com/princegupta2024/education)
+
+---
+
+### 💊 [Medicine Seller](https://princegupta2024.github.io/medicine_seller/)
+**Tech Stack:** HTML, CSS, JS  
+💊 Clean and professional medical e-commerce landing page.  
+[🔗 View Source](https://github.com/princegupta2024/medicine_seller)
+
+---
+
+### 🧩 [FlexiTabs UI](https://princegupta2024.github.io/FlexiTabs/)
+**Tech Stack:** HTML, CSS, JavaScript  
+🔄 Custom tab component built for modern responsive websites.  
+[🔗 View Source](https://github.com/princegupta2024/FlexiTabs)
+
+---
+
+### 🌰 [Makhana Web](https://princegupta2024.github.io/makhana_web/)
+**Tech Stack:** HTML, CSS, JavaScript  
+🥥 Business website for a healthy snack brand.  
+[🔗 View Source](https://github.com/princegupta2024/makhana_web)
+
+---
+
+### 🧱 [Capstone Abrasives](https://www.capstoneabrasives.com/)
+**Tech Stack:** WordPress  
+🏢 Corporate website for an industrial abrasives company.  
+_Source: Client project (private)_
+
+---
+
+### 🛍️ [NILA Shop](https://nila.shop/)
+**Tech Stack:** Shopify  
+🛒 Custom Shopify storefront with optimized product pages.  
+_Source: Client project (private)_
+
+---
+
+### ⛽ [Sumesh Petroleum](https://www.sumeshpetroleum.com/)
+**Tech Stack:** WordPress, PHP  
+⚙️ Company website for a petroleum service provider.  
+_Source: Client project (private)_
+
+---
+
+### 🧺 [SwishWash](https://www.swishwash.in/)
+**Tech Stack:** WordPress  
+🧼 Laundry and home cleaning service website.  
+_Source: Client project (private)_
+
+---
+
+### 💎 [DiaCure](https://diacure.shop/)
+**Tech Stack:** Shopify  
+💍 E-commerce website for a wellness brand.  
+_Source: Client project (private)_
+
+---
+
 
 ## 📌 Projects that are **Live only** (no source repo in this GitHub)
 These websites are deployed and linked above, but I couldn't find (in this README) matching open-source repositories in your GitHub profile. Marking them here so recruiters know they are live client projects:
