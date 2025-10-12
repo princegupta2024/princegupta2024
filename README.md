@@ -9,7 +9,7 @@
   <a href="mailto:infoprincegupta02@gmail.com">📧 infoprincegupta02@gmail.com</a> •
   <a href="https://www.linkedin.com/in/prince-gupta-058561260/">💼 LinkedIn</a> •
   <a href="https://github.com/princegupta2024">🐙 GitHub</a> •
-  <a href="https://princegupta2024.github.io/">🌐 Portfolio</a>
+  <a href="https://princegupta2024.github.io/portfolio/">🌐 Portfolio</a>
 </p>
 
 ---
