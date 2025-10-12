@@ -122,5 +122,5 @@ _Source: Client project (private repository)_
   <a href="mailto:infoprincegupta02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/prince-gupta-058561260/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/princegupta2024"><img src="https://img.shields.io/badge/-GitHub-24292E?style=flat&logo=github&logoColor=white"/></a>
-  <a href="https://princegupta2024.github.io/"><img src="https://img.shields.io/badge/-Portfolio-6cc24a?style=flat&logo=githubpages&logoColor=white"/></a>
+  <a href="https://princegupta2024.github.io/portfolio/"><img src="https://img.shields.io/badge/-Portfolio-6cc24a?style=flat&logo=githubpages&logoColor=white"/></a>
 </p>
