@@ -63,6 +63,13 @@
 
 ---
 
+### 📚 [Dictionary App](https://princegupta2024.github.io/dictionary/)
+**Tech Stack:** HTML, CSS, JavaScript, Dictionary API  
+🗣️ Created a dynamic dictionary web app that interacts with a public API to provide users with real-time definitions, usage examples, and audio pronunciations.  
+[🔗 View Source](https://github.com/princegupta2024/dictionary)
+
+---
+
 ### 🌰 [Makhana Web](https://princegupta2024.github.io/makhana_web/)
 **Tech Stack:** HTML, CSS, JavaScript  
 🥥 Created a vibrant and engaging business website to showcase a healthy snack brand's product line and brand story.  
