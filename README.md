@@ -1,6 +1,10 @@
 <h1 align="center">Hey there! 👋 I'm Prince Gupta</h1>
 
 <p align="center">
+  <a href="https://princegupta2024.github.io/portfolio/"><strong>🌐 Visit My Portfolio</strong></a>
+</p>
+
+<p align="center">
   <strong>💻 Full Stack Developer</strong> • MERN • WordPress • Shopify<br>
   Crafting seamless web solutions with clean code, creative UI, and a performance-first mindset.
 </p>
